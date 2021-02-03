@@ -1,0 +1,23 @@
+{
+  "name": "crash-course",
+  "version": "1.0.0",
+  "description": "a node crash course",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  
+  "author": "Frede",
+  "license": "ISC",
+  "bugs": {
+   
+  },
+  
+  "dependencies": {
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "morgan": "^1.10.0"
+  }
+}
